@@ -1,0 +1,5 @@
+1) we should use int main() {}.
+   void main9) is not allowed now.
+   sometimes main() is also allowed by some compilers.
+
+2) 
